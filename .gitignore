@@ -2,4 +2,8 @@
 /.project
 /.settings
 
+/socrates2012.iml
+/atlassian-ide-plugin.xml
+/.idea
+
 /target
